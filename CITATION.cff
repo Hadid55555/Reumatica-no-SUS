@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this code or data, please cite it as below."
 title: "Code and data for: Stable volume but falling age-specific rates of rheumatic valve surgery in Brazil's public health system, 2003–2025"
 version: 1.0.0
+doi: 10.5281/zenodo.24220148
 date-released: 2026-11-14
 license: MIT
 repository-code: "https://github.com/Hadid55555/Reumatica-no-SUS"

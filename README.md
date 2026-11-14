@@ -1,5 +1,7 @@
 # Rheumatic valve surgery in Brazil's public health system, 2003–2025
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24220148.svg)](https://doi.org/10.5281/zenodo.24220148)
+
 Code and data for the study *"Stable volume but falling age-specific rates of rheumatic valve surgery in Brazil's public
 health system, 2003–2025: a nationwide study of cohort and regional patterns"* (Hadid L, Salek L, Passos FS, Caldonazo T;
 manuscript in preparation).
@@ -80,4 +82,4 @@ sole paragraph, items II and III), it did not require ethics committee approval 
 
 ## Citation
 
-See `CITATION.cff`. A DOI will be assigned by Zenodo on the first release.
+See `CITATION.cff`. Version 1.0.0: https://doi.org/10.5281/zenodo.24220148 (all versions: https://doi.org/10.5281/zenodo.24220147).
