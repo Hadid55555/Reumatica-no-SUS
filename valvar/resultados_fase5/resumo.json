@@ -1,0 +1,26 @@
+{
+ "interacao_etiologia_periodo_idade_F_p": [
+  3.21,
+  0.05996094854689593
+ ],
+ "interacao_regiao_periodo_idade_F_p": [
+  0.91,
+  0.5131325650972989
+ ],
+ "interacao_sexo_periodo_idade_F_p": [
+  0.02,
+  0.9781558362557383
+ ],
+ "degrau_2013_2017_variacao_pct": {
+  "reumatica": -24.9,
+  "nao_reumatica": 10.5,
+  "valvar_total": -6.7,
+  "crvm_sus": -8.4,
+  "hospitais_ativos": 3.3,
+  "valor_real_mediano": -20.1
+ },
+ "recontagem_15_39": {
+  "2008_10": 4548,
+  "2023_25": 2414
+ }
+}

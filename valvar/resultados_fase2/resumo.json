@@ -1,0 +1,33 @@
+{
+ "multiplas_cid_valvar": 31599,
+ "multiplas_com_ato_valvar": 24766,
+ "multiplas_no_sp": 31599,
+ "aih_candidatas": 264890,
+ "aih_candidatas_no_sp_pct": 100.0,
+ "projecao_fator_populacao": 0.9744,
+ "febre_aguda_variacao_anual_pct": [
+  -8.2,
+  -9.3,
+  -7.1
+ ],
+ "mitral_hospitais_ge30": 193,
+ "mitral_hospitais_zero_plastia": 5,
+ "mortalidade_n_modelo": 182152,
+ "rd_arquivos": {
+  "lidos": 8580,
+  "falhou": [
+   "RDAP0710",
+   "RDRR0001",
+   "RDRR0002",
+   "RDRR0003",
+   "RDRR0004",
+   "RDRR0005"
+  ]
+ },
+ "sp_arquivos": {
+  "lidos": 5512,
+  "falhou": []
+ },
+ "sp_aih_alvo": 282700,
+ "sp_aih_encontradas": 282700
+}

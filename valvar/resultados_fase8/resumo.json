@@ -1,0 +1,30 @@
+{
+ "A_interacao_regiao_x_periodo_x_idade": {
+  "F": 0.57,
+  "gl": [
+   8,
+   55
+  ],
+  "p": 0.797
+ },
+ "A_interacao_sexo_x_periodo_x_idade": {
+  "F": 0.12,
+  "gl": [
+   2,
+   22
+  ],
+  "p": 0.887
+ },
+ "C_interacao_medida_x_periodo_x_idade_Brasil": "teste n\u00e3o informativo (modelo saturado)",
+ "D_das_gupta_fecha": true,
+ "E_conferencias": {
+  "regioes_mais_ignorada_igual_brasil": true,
+  "residencia_ignorada_total": 0,
+  "totais_iguais_fase6": true,
+  "B1_regioes_mais_ignorada_igual_brasil": true,
+  "sem_idade_valida": 0,
+  "n_2003": 7324,
+  "n_2024": 6672,
+  "n_2003_2025": 142903
+ }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Code and data for: Stable volume but falling age-specific rates of rheumatic valve surgery in Brazil's public health system, 2003–2025",
+  "upload_type": "software",
+  "description": "<p>Analysis code, analytical datasets and aggregated results reproducing every table and figure of the study of rheumatic valve surgery in Brazil's Unified Health System (SUS), 2003–2025, based on public, anonymized DATASUS data (SIH/SUS hospital admissions, SIM mortality) and IBGE population estimates. Hospital and admission identifiers in the analytical datasets are replaced by meaningless codes.</p>",
+  "creators": [
+    {"name": "Hadid, Leonardo", "affiliation": "Instituto Nacional de Cardiologia, Rio de Janeiro, Brazil"},
+    {"name": "Salek, Luísa", "affiliation": "Instituto Nacional de Cardiologia, Rio de Janeiro, Brazil"},
+    {"name": "Passos, Felipe S.", "affiliation": "Department of Thoracic Surgery, Hospital MaterDei, Salvador, Brazil"},
+    {"name": "Caldonazo, Tulio", "affiliation": "Department of Cardiothoracic Surgery, Jena University Hospital, Friedrich-Schiller-University Jena, Jena, Germany"}
+  ],
+  "license": "MIT",
+  "keywords": ["rheumatic heart disease", "heart valve surgery", "administrative data", "SIH/SUS", "Brazil", "birth cohort"],
+  "version": "1.0.0",
+  "language": "eng"
+}

@@ -1,0 +1,13 @@
+fim,amostra,n_uf,comparacao,spearman,p
+2022_24,todas as UF,27,razão cirurgia × razão óbito,-0.1343101343101343,0.5041917954419021
+2022_24,todas as UF,24,volume valvar na UF × razão óbito,0.08434782608695651,0.69516260313585
+2022_24,sem RO,26,razão cirurgia × razão óbito,-0.03521367521367521,0.8643990594060471
+2022_24,sem RO,24,volume valvar na UF × razão óbito,0.08434782608695651,0.69516260313585
+2022_24,"UF com ≥30 óbitos em cada período, sem RO",22,razão cirurgia × razão óbito,0.08865047995482779,0.6948291640624967
+2022_24,"UF com ≥30 óbitos em cada período, sem RO",22,volume valvar na UF × razão óbito,0.09316770186335405,0.6800565574585159
+2017_19,todas as UF,27,razão cirurgia × razão óbito,0.1343101343101343,0.5041917954419021
+2017_19,todas as UF,24,volume valvar na UF × razão óbito,0.05826086956521739,0.7868436161547347
+2017_19,sem RO,26,razão cirurgia × razão óbito,0.1398290598290598,0.4956915891730139
+2017_19,sem RO,24,volume valvar na UF × razão óbito,0.05826086956521739,0.7868436161547347
+2017_19,"UF com ≥30 óbitos em cada período, sem RO",22,razão cirurgia × razão óbito,0.20722755505364204,0.35478551222580335
+2017_19,"UF com ≥30 óbitos em cada período, sem RO",22,volume valvar na UF × razão óbito,0.08752117447769624,0.6985393337442606

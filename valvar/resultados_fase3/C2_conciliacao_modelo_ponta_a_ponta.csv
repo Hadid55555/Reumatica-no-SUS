@@ -1,0 +1,9 @@
+definicao,anos,ponta_a_ponta_bruta_n_pct_ano,ponta_a_ponta_padronizada_pct_ano,modelo_pct_ano
+Reumática,2008–2024,0.686533504586273,-1.4994372188742555,
+Reumática,2008–2025,0.09776689359073387,-2.066996879266192,
+Reumática,2013–2024,-0.5167811125156185,-2.5945036152313694,
+Reumática,"2008–2025 (modelo BN: idade, sexo, pandemia; todos os anos pesam)",,,-2.781312697137317
+Não reumática,2008–2024,3.7572953831388256,1.0749929855675466,
+Não reumática,2008–2025,3.5011528023612737,0.8817750016782977,
+Não reumática,2013–2024,3.25016353505605,0.6167875601546413,
+Não reumática,"2008–2025 (modelo BN: idade, sexo, pandemia; todos os anos pesam)",,,-0.8947356073427448

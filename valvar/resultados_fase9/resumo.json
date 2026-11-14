@@ -1,0 +1,26 @@
+{
+ "C_spearman_renda_x_razao": [
+  -0.109,
+  0.587
+ ],
+ "C_spearman_renda_x_taxa_2022_24": [
+  -0.121,
+  0.549
+ ],
+ "C_spearman_renda_x_taxa_2003_05": [
+  0.049,
+  0.81
+ ],
+ "C_n_uf_com_renda": 27,
+ "C_spearman_volume_valvar_uf_x_razao_reum": [
+  0.78,
+  0.0,
+  24
+ ],
+ "D_dispersao_phi": 2.73,
+ "D_net_drift_pct_ano": [
+  -3.88,
+  -4.51,
+  -3.24
+ ]
+}

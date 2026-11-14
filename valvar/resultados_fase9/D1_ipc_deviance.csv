@@ -1,0 +1,6 @@
+modelo,deviance,gl_resid
+Idade,7325.952677498826,39
+Idade + drift,1607.719973587217,38
+Idade + período,1456.037421982734,36
+Idade + coorte,218.92354674289186,24
+Idade + período + coorte,60.082193694264745,22
