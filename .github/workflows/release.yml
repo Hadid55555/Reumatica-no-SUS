@@ -1,0 +1,17 @@
+name: Release on tag
+on:
+  push:
+    tags: ["v*"]
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create GitHub release (archived by Zenodo)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release create "$GITHUB_REF_NAME" --repo "$GITHUB_REPOSITORY" \
+            --title "$GITHUB_REF_NAME" \
+            --notes "Code and data for the study of rheumatic valve surgery in Brazil's public health system (SUS), 2003–2025. Reproduces every table and figure of the manuscript and its supplementary material."
